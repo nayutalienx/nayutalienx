@@ -1,31 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p align="right">
-  <strong>see you space cowboy, someday, somewhere!</strong>
+  <strong>ARE YOU LIVING IN THE REAL WORLD ?</strong>
 </p>
