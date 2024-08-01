@@ -13,6 +13,6 @@ Open world shooter written in Unity.
 <br/>
 <br/>
 <a href="https://github.com/nayutalienx/ahasuerus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nayutalienx&repo=ahasuerus&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nayutalienx&repo=ahasuerus&theme=dark" />
 </a>
 <br/>
