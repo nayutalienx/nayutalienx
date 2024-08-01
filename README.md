@@ -16,3 +16,6 @@ Open world shooter written in Unity.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nayutalienx&repo=ahasuerus&theme=dark" />
 </a>
 <br/>
+
+## 🚩 leetcode
+![Leetcode Stats](https://leetcard.jacoblin.cool/nayutalienx?theme=dark&font=Fredoka)
