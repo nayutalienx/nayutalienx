@@ -20,6 +20,9 @@ Open world shooter written in Unity.
 ## 🚩 my leetcode 👇
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nayutalienx?theme=dark&font=Fredoka)
 
-## 🧩 other refs 👇
+## 🧩 refs 👇
 [![Generic badge](https://img.shields.io/badge/leetcode-profile-red.svg)](https://leetcode.com/u/nayutalienx/)
+[![Generic badge](https://img.shields.io/badge/telegram-profile-blue.svg)](https://t.me/nayutalienx/)
+[![Generic badge](https://img.shields.io/badge/steam-profile-white.svg)](https://steamcommunity.com/id/vmsnkv/)
 [![Generic badge](https://img.shields.io/badge/shikimori-project-blue.svg)](https://shikimori.one/nayutalienx/list/anime)
+
