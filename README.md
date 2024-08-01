@@ -17,5 +17,5 @@ Open world shooter written in Unity.
 </a>
 <br/>
 
-## 🚩 leetcode
+## 🚩 my leetcode 👇
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nayutalienx?theme=dark&font=Fredoka)
