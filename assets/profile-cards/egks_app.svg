@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="116" viewBox="0 0 360 116">
+<rect x="0.5" y="0.5" width="359" height="115" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="18" y="28" fill="#58a6ff" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600">egks_app</text>
+<text x="18" y="46" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="13">An Android application for checking public</text>
+<text x="18" y="64" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="13">transport card balances and managing</text>
+<circle cx="20" cy="94" r="5" fill="#d29922"/>
+<text x="32" y="98" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="12">Java</text>
+<text x="74" y="98" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="12">· Android / Material</text>
+</svg>
