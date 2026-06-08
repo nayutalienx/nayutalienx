@@ -1,3 +1,9 @@
+### Machine Learning
+
+<p>
+  <a href="https://github.com/nayutalienx/osu-skill-predictor"><img width="32%" src="./assets/profile-cards/osu-skill-predictor.svg" /></a>
+</p>
+
 ### Desktop
 
 <p>
